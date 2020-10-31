@@ -16,7 +16,7 @@
     <img alt="Licença" src="https://img.shields.io/github/license/mguidoti/learn-rocketseat-gostack-conceitos-nodejs?color=04D361">
   </a>
 
-  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/master/README.md">
+  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs">
     <img alt="Idioma alternativo" src="https://img.shields.io/badge/alt%20language-eng-0498d3"/>
   </a>
 

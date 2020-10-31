@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/master/docs/README-ptbr.md">
-    <img alt="Alt language" src="https://img.shields.io/badge/alt%20language-pt--br-d3c204"/>
+    <img alt="Alt language" src="https://img.shields.io/badge/alt%20language-pt--br-ffeb00"/>
   </a>
 
 </p>
