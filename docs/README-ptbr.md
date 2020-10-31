@@ -6,18 +6,18 @@
 </h3>
 
 <p align="center">
-  <img alt="Last update" src="https://img.shields.io/github/last-commit/mguidoti/learn-rocketseat-gostack-conceitos-nodejs?color=04D361"/>
+  <img alt="Último update" src="https://img.shields.io/github/last-commit/mguidoti/learn-rocketseat-gostack-conceitos-nodejs?color=04D361"/>
 
   <a href="https://github.com/mguidoti">
-      <img alt="Made by Marcus Guidoti" src="https://img.shields.io/badge/made%20by-mguidoti-%2304D361"/>
+      <img alt="Feito por Marcus Guidoti" src="https://img.shields.io/badge/made%20by-mguidoti-%2304D361"/>
   </a>
 
-  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/master/README-ptbr.md">
-    <img alt="License" src="https://img.shields.io/github/license/mguidoti/learn-rocketseat-gostack-conceitos-nodejs?color=04D361">
+  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/master/LICENSE">
+    <img alt="Licença" src="https://img.shields.io/github/license/mguidoti/learn-rocketseat-gostack-conceitos-nodejs?color=04D361">
   </a>
 
-  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/master/README-ptbr.md">
-    <img alt="alt language" src="https://img.shields.io/badge/alt%20language-pt--br-04D361"/>
+  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/master/README.md">
+    <img alt="Idioma alternativo" src="https://img.shields.io/badge/alt%20language-pt--br-04D361"/>
   </a>
 
 </p>
